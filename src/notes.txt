@@ -1,0 +1,5 @@
+NOTES FROM CREATING THE PROJECT: 
+
+-Tailwind css is quite UNIQUE, you kinda of have to import it in the vite.config.js file and add it as a defineConfig
+
+- npm i react-icons axios moment emoji-picker-react react-router-dom recharts react-hot-toast (This is a command for the terminal so that you can get access to emojis im assuming and it downloads in the package.json file!!)
